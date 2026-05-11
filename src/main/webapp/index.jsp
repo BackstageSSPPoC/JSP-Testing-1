@@ -4,7 +4,7 @@
 </head>
 <body>
 
-<h1>JSP Application Testing </h1>
+<h1>Hello from JSP Testing 1</h1>
 
 <p>Test Successful Done</p>
 
